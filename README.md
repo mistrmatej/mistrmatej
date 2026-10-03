@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?mistrmatej=mistrmatej&style=flat-square&color=7C5CFF&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=mistrmatej&style=flat-square&color=7C5CFF&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-7C5CFF?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR-WEBSITE.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-write%20me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOU@EXAMPLE.COM)
@@ -45,16 +45,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?mistrmatej=mistrmatej&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?mistrmatej=mistrmatej&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mistrmatej&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrmatej&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mistrmatej&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
 </div>
-
-## 💡 Fun fact
-
-> *"Good design is as little design as possible."* — and yet I'll happily spend an hour on a hover animation.
 
 ---
 
